@@ -9,4 +9,4 @@ Use the below command
 
 To run the server, go to Backend folder.
 Use the below command
-node server.js
+'node server.js'
